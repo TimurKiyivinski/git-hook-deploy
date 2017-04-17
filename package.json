@@ -14,5 +14,11 @@
     "ci"
   ],
   "author": "Timur Kiyivinski",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "sha.js": "^2.4.8",
+    "shelljs": "^0.7.7"
+  }
 }
